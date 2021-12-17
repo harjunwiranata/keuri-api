@@ -1,0 +1,23 @@
+{
+  "name": "keuri-api",
+  "version": "0.1.0",
+  "description": "OMG archives for Miracle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harjunwiranata/keuri-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harjunwiranata/keuri-api/issues"
+  },
+  "homepage": "https://github.com/harjunwiranata/keuri-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
